@@ -18,9 +18,10 @@ You can click the Preview link to take a look at your changes.
   
   
 <!---- my languages --->
-<div style="display: inline_block"><br>
-  <img align="center" alt="João-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style = "display: inline_block"><br>
+  <img align = "center" alt = "João-C"      height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align = "center" alt = "João-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align = "center" alt = "João-Java"   height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 </div>
   
   
